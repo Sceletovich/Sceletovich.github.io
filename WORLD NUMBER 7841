@@ -3,15 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Employee number 3">
+<meta name="keywords" content="Storehouse of worlds, Storage, Worlds">
 <title>It is not safe</title>
 </head>
 <body bgcolor="#ffffff" text="#00FF00">
  <h1>Some information about the keepers</h>
- <a href="адрес страницы">1.Sceletovich</a>
- <a href="адрес страницы">2.Skreen</a>
- <a href="адрес страницы">3.Mean</a>
- <a href="адрес страницы">4.Farman</a>
- <a href="адрес страницы">5."Lier"</a>
+ <a href="main/Html/1">1.Sceletovich</a>
+ <a href="main/Html/2">2.Skreen</a>
+ <a href="main/Html/3">3.Mean</a>
+ <a href="main/Html/4">4.Farman</a>
+ <a href="main/Html/5">5."Lier"</a>
  <h1>Some Information About The World</h1>
  <p>INFORMATION IS NOT ENOUGH</p>
 </body>
